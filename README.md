@@ -10,7 +10,7 @@ Stuff about CloudNine here...
 
 Stuff about first page...
 
-![cloudnine-screenshot1](https://github.com/ahinkel421/cloudnine/blob/master/readme-screenshot1.png)
+![cloudnine-screenshot1](https://github.com/ahinkel421/cloudnine/blob/master/cloudnine-screenshot1.png)
 
 
 
