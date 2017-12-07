@@ -2,11 +2,15 @@
 
 ## CloudNine 
 
+Stuff about CloudNine here...
+
 
 
 ## Summary
 
-Where the user begins and how they flow + pics
+Stuff about first page...
+
+![cloudnine-screenshot1](https://github.com/ahinkel421/cloudnine/blob/master/readme-screenshot1.png)
 
 
 
