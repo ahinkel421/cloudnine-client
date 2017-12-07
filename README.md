@@ -14,6 +14,8 @@ Stuff about first page...
 
 
 
+
+
 Stuff about second page...
 
 
@@ -36,7 +38,7 @@ www.bit.ly/cloudnine-app
 
   - Javascript
 
-  - React JS
+  - ReactJS
 
     ​
 
