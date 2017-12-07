@@ -5,6 +5,8 @@ import UserPost from './user-post';
 import PageHeader from './page-header';
 import Lounges from './lounges';
 
+import {API_BASE_URL} from '../config';
+
 export default class LoungePage extends React.Component {
   constructor(props){
     super(props);
@@ -39,7 +41,7 @@ export default class LoungePage extends React.Component {
 
   fetchLoungeInfo(loungeId){
     let self = this;
-    fetch(`http://localhost:8080/lounges/${loungeId}`)
+    fetch(`${API_BASE_URL}/lounges/${loungeId}`)
     .then(function(response) {
       return response.json();
     })
@@ -79,7 +81,7 @@ export default class LoungePage extends React.Component {
     let loungeId = this.props.match.params.loungeId;
 
     //POST request to API
-    fetch(`http://localhost:8080/lounges/${loungeId}`, {
+    fetch(`${API_BASE_URL}/lounges/${loungeId}`, {
       method: 'POST',
       headers: {
         'Accept': 'application/json',
