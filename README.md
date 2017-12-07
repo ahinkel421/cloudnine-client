@@ -50,7 +50,9 @@ www.bit.ly/cloudnine-app
 - Back-end:
 
   - Node.js
+
   - MongoDB + Mongoose
+
   - Express
 
 
