@@ -48,14 +48,14 @@
 	color: white;
 	display: block;
 	margin: 0 auto;
-	padding: 5px;
+	padding: 8px;
 }
 
 .report-anchor {
 	text-decoration: none;
 	color: white;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 15px;
+	font-size: 13px;
 	transition-duration: .4s;
   	transition-timing-function: ease;
 }
