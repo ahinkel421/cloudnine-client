@@ -11,7 +11,7 @@ export default class LandingPage extends React.Component {
 
     return (
       <div>
-        <PageHeader image="/images/ocean.jpg" text="Postitive mind. Positive life." />
+        <PageHeader image="/images/ocean.jpg" text="Positive mind. Positive life." />
 
         {/*About section*/}
         <section className="about">
