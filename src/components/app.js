@@ -8,9 +8,6 @@ import Footer from './footer';
 
 
 export default class App extends React.Component {
-	//Create state that keeps track of what page user is on.
-	//Initial state = landingPage: true
-	//If landing page is true, display landing page, else display lounge
 
 
 	render() {
