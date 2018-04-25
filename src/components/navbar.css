@@ -19,3 +19,10 @@
 .navbar-header:hover {
 	cursor: pointer;
 }
+
+@media (max-width: 450px) {
+	.navbar-header {
+		font-size: 25px;
+		margin: 18px auto;
+	}
+}

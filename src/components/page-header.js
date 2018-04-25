@@ -3,7 +3,7 @@ import './page-header.css';
 
 export default class PageHeader extends React.Component {
 	render() {
-		let bgImage=this.props.image
+		let bgImage=this.props.image;
 		let style = {};
 		if (bgImage){
 			style.backgroundImage = `url('${bgImage}')`

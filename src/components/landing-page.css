@@ -62,3 +62,18 @@
 		font-size: 17px;
 	}
 }
+
+@media (max-width: 450px) {
+	.about {
+		padding-top: 65px;
+		padding-bottom: 65px;
+	}
+	.about-header {
+		text-align: left	
+	}
+	.about-description {
+		font-size: 14px;
+		text-align: left;
+		padding: 30px 0 0 0;
+	}
+}
